@@ -58,17 +58,8 @@ button:active{
 
 
 h3{
-    display:flex;
-    justify-content:end;
-    align-items:self-end;
-    padding-left:  30px;
-    padding-bottom: 400px;
-    color: red;
-    
+   
 
 }
-h4{
-    padding-right: 70px;
-    font-style: italic;
-    font-size: 20px;
-}
+
+   
