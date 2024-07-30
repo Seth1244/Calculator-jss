@@ -55,9 +55,22 @@ button:active{
 .operator-btn{
     background-color: rgb(21, 13, 5);
 }
+h2{
+    position: relative;
+    
+    bottom: 100px;
+    color:brown;
+    font-size: x-large;
+}
 
-
-h3{
+h4{
+    position: relative;
+    bottom: 100px;
+    top: 40px;
+    
+    color: blue;
+    font-size: larger;
+    font: weight 500;
    
 
 }
