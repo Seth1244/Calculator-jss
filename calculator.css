@@ -74,5 +74,11 @@ h4{
    
 
 }
+img{
+    position: relative;
+    left: 80px;
+    border-radius: 50%;
+}
+
 
    
